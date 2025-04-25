@@ -1,0 +1,14 @@
+- general
+	- class
+	- name
+	- date createed
+- topic 1
+	- elaboration
+		- description with source reference
+- topic 2
+	- elaboration
+		- description with source reference
+- current state of the art
+	- whats the status today
+- future outlook
+	- where does the technology move? how does that influence the future?
